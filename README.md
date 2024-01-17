@@ -1,1 +1,3 @@
-# VeggieStackPublicIOSVersion
+{
+"version":"1.5"
+}
