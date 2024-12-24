@@ -1,1 +1,1 @@
-{"evaluationTreshold":2500,"probabilitySpawnItem":0.25,"maxItemsPerGame":4}
+{"evaluationTreshold":2500,"probabilitySpawnItem":0.25,"maxItemsPerGame":4,"maxPointsWithoutShowingBubble":20000}
