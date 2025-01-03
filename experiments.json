@@ -1,0 +1,28 @@
+[
+  {
+    "configName":"interstitial",
+    "allocation":[
+      0.3333333,
+      0.3333333,
+      0.3333333
+    ],
+    "values":[
+      5,
+      3,
+      -1
+    ],
+    "version":0
+  },
+  {
+    "configName":"appopen",
+    "allocation":[
+      0.5,
+      0.5
+    ],
+    "values":[
+      1,
+      0
+    ],
+    "version":0
+  }
+]
