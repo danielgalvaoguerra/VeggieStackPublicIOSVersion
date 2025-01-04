@@ -2,9 +2,9 @@
   {
     "configName":"interstitial",
     "allocation":[
-      0.3333333,
-      0.3333333,
-      0.3333333
+      0.3,
+      0.33,
+      0.333
     ],
     "values":[
       5,
