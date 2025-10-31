@@ -1,0 +1,10 @@
+[
+  {
+    "season":"halloween",
+    "show":false
+  },
+  {
+    "season":"christmas",
+    "show":true
+  }
+]
